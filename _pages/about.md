@@ -8,16 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This will be the first paragraph.
+My name is Courtney Smith and I'm an MD/PhD Student in Genetics at Stanford University. I'm doing my PhD in the lab of Jonathan Pritchard where I am researching the genetic architecture of complex traits and diseases. I'm intereseted in leveraging large population-scale biobank data to elucidate the molecular mechanisms underlying human diseases. Specifically, I am interested in analyzing pleiotropy (shared genetic effects) across various molecular and cellular traits and diseases through Genome-wide Association Studies (GWAS) to learn more about how the body works in health and disease.
 
-Title of second paragraph
-======
-More info for this second paragraph here.
+I received a BS in Chemistry from Stanford University in 2019 with my undergraduate thesis work studying the role of the human gut microbiome in lactose intolerance. My background in chemistry informs how I approach scientific questions in biomedical research; many of my research questions and interests are motivated by wanting to understand the mechanism of biological principles in medicine on a molecular level. Because of this, my work is at the intersection of genetics, computer science, medicine, statistics, and biochemistry.
 
-Third paragraph title
-======
-Third paragraph text will be here.
-
-Next paragraph title
-------
-More paragraph text
+In my free time, I enjoy trail running and have run multiple ultramarathons. In college, I was a Division 1 All-American in Cross Country, and Track and Field, and competed in the 2016 US Olympic Trials in the 10k.
