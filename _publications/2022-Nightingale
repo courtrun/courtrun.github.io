@@ -1,10 +1,10 @@
 ---
 title: "Integrative analysis of metabolite GWAS illuminates the molecular basis of pleiotropy and genetic correlation"
 collection: publications
-excerpt: 'This paper explores the use of the extensive amount of known biology of metabolites and the biochemical pathways involved in their formation and breakdown to investigate the molecular basis of pleiotropy and genetic correlation. To do this, we first performed GWAS of 16 NMR metabolites in ~100,000 UK Biobank individuals, including those invovled in glycolysis, ketone formation and breakdown, and amino acid metabolism. This resulted in 213 independent signals across the genome significantly associated with a change in levels in at least one of the metabolites. From there, we worked backwards from the known biochemistry to annotate these variants, the majority of which were in noncoding regions. We found 68 variants were likely affecting genes encoding pathway relevant enzymes, 40 affecting transporter genes, and 30 TFs. The substantial enrichment for biologically interpretable variants reinforced the use of metabolites as model traits for examining the molecular mechanisms underlying pleiotropy.'
-See detailed tutorial of the paper with annotations of key figures at my Twitter tutorial [here](https://twitter.com/Courtsmithrun/status/1511002628901072902).
-excerpt: 'Link to code for the paper [here].(https://github.com/courtrun/Pleiotropy-of-UKB-Metabolites).'
-excerpt: 'Read the full paper [here](https://elifesciences.org/articles/79348).'
+excerpt: 'This paper explores the use of the extensive amount of known biology of metabolites and the biochemical pathways involved in their formation and breakdown to investigate the molecular basis of pleiotropy and genetic correlation. To do this, we first performed GWAS of 16 NMR metabolites in ~100,000 UK Biobank individuals, including those invovled in glycolysis, ketone formation and breakdown, and amino acid metabolism. This resulted in 213 independent signals across the genome significantly associated with a change in levels in at least one of the metabolites. From there, we worked backwards from the known biochemistry to annotate these variants, the majority of which were in noncoding regions. We found 68 variants were likely affecting genes encoding pathway relevant enzymes, 40 affecting transporter genes, and 30 TFs. The substantial enrichment for biologically interpretable variants reinforced the use of metabolites as model traits for examining the molecular mechanisms underlying pleiotropy.  <br />
+See detailed tutorial of the paper with annotations of key figures at my Twitter tutorial [here](https://twitter.com/Courtsmithrun/status/1511002628901072902).  <br />
+Link to code for the paper [here].(https://github.com/courtrun/Pleiotropy-of-UKB-Metabolites).  <br />
+Read the full paper [here](https://elifesciences.org/articles/79348).'
 date: 2022-09-08
 venue: 'eLife'
 link: 'https://elifesciences.org/articles/79348'
