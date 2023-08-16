@@ -2,7 +2,7 @@
 title: "Integrative analysis of metabolite GWAS illuminates the molecular basis of pleiotropy and genetic correlation"
 collection: publications
 permalink: /publication/2022-Nightingale
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper explores the use of the extensive amount of known biology of metabolites and the biochemical pathways involved in their formation and breakdown to investigate the molecular basis of pleiotropy and genetic correlation. To do this, we first performed GWAS of 16 NMR metabolites in ~100,000 UK Biobank individuals, including those invovled in glycolysis, ketone formation and breakdown, and amino acid metabolism. This resulted in 213 independent signals across the genome significantly associated with a change in levels in at least one of the metabolites. From there, we worked backwards from the known biochemistry to annotate these variants, the majority of which were in noncoding regions. We found 68 variants were likely affecting genes encoding pathway relevant enzymes, 40 affecting transporter genes, and 30 TFs. The substantial enrichment for biologically interpretable variants reinforced the use of metabolites as model traits for examining the molecular mechanisms underlying pleiotropy. See detailed tutorial of the full paper with annotations of key figures at my Twitter tutorial [here](https://twitter.com/Courtsmithrun/status/1511002628901072902). Read paper here: https://elifesciences.org/articles/79348). Link to code for the paper: https://github.com/courtrun/Pleiotropy-of-UKB-Metabolites.'
 date: 2022-09-08
 venue: 'eLife'
 link: 'https://elifesciences.org/articles/79348'
@@ -10,10 +10,6 @@ citation: 'Courtney J Smith, Nasa Sinnott-Armstrong, Anna Cichońska, Heli Julku
 ---
 This paper explores the use of the extensive amount of known biology of metabolites and the biochemical pathways involved in their formation and breakdown to investigate the molecular basis of pleiotropy and genetic correlation. To do this, we first performed GWAS of 16 NMR metabolites in ~100,000 UK Biobank individuals, including those invovled in glycolysis, ketone formation and breakdown, and amino acid metabolism. This resulted in 213 independent signals across the genome significantly associated with a change in levels in at least one of the metabolites. From there, we worked backwards from the known biochemistry to annotate these variants, the majority of which were in noncoding regions. We found 68 variants were likely affecting genes encoding pathway relevant enzymes, 40 affecting transporter genes, and 30 TFs. The substantial enrichment for biologically interpretable variants reinforced the use of metabolites as model traits for examining the molecular mechanisms underlying pleiotropy. 
 
-See detailed tutorial of the full paper with annotations of key figures at my Twitter tutorial [here](https://twitter.com/Courtsmithrun/status/1511002628901072902).
-
-[Read paper here](https://elifesciences.org/articles/79348)
+See detailed tutorial of the full paper with annotations of key figures at my Twitter tutorial [here](https://twitter.com/Courtsmithrun/status/1511002628901072902). Read paper here: https://elifesciences.org/articles/79348). Link to code for the paper: https://github.com/courtrun/Pleiotropy-of-UKB-Metabolites.
 
 Recommended citation: Courtney J Smith, Nasa Sinnott-Armstrong, Anna Cichońska, Heli Julkunen, Eric B Fauman, Peter Würtz, Jonathan K Pritchard (2022). &quot;Integrative analysis of metabolite GWAS illuminates the molecular basis of pleiotropy and genetic correlation&quot; <i>eLife</i> 11:e79348. https://doi.org/10.7554/eLife.79348.
-
-Link to code for the paper: https://github.com/courtrun/Pleiotropy-of-UKB-Metabolites.
