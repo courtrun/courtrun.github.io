@@ -1,9 +1,9 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Testing'
+date: 2023-08-17
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
+  - test1
   - category1
   - category2
 ---
