@@ -1,7 +1,7 @@
 ---
 title: 'Oddly Specific, Potentially Useful Code - General R snippets'
 date: 2023-08-17
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2023/08/blog-post-4/
 tags:
   - code
   - R
@@ -45,6 +45,7 @@ df <- as.data.frame(mydf %>% group_by(GENES) %>% filter(num_sig == max(num_sig))
 ```
 
 Code for various specific munging data tasks
+=======
 ```
 library(dplyr)
 
@@ -96,6 +97,7 @@ eval(parse(text = my_string)) # string to variable name
 ```
 
 Code for various specific reformating data tasks
+=======
 ```R
 library(dplyr)
 
@@ -112,6 +114,7 @@ mydf$genes <- gsub("\\..*","",mydf$genes)
 ```
 
 Code for various miscellaneous tasks
+=======
 ```R
 library(dplyr)
 
