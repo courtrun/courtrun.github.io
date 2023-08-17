@@ -46,7 +46,7 @@ df <- as.data.frame(mydf %>% group_by(GENES) %>% filter(num_sig == max(num_sig))
 
 Code for various specific munging data tasks
 =======
-```
+```R
 library(dplyr)
 
 # replace a single element in a df based on matching criteria
