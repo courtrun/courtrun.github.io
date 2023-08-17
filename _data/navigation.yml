@@ -6,6 +6,9 @@ main:
   - title: "Tutorials"
     url: /year-archive/
 
+  - title: "About Me"
+    url: /about/
+
   - #title: "Talks2"
     #url: /talks/    
 
