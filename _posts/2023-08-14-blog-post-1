@@ -1,0 +1,20 @@
+---
+title: 'Oddly Specific, Potentially Useful Code - General R snippets'
+date: 2023-08-17
+permalink: /posts/2023/08/blog-post-1/
+tags:
+  - code
+  - R
+  - tutorial
+---
+
+This is a collection of oddly specific, potential useful code snippets that I use frequently enough in my general data analysis work in R that I wanted to put them in one place as a reference. Some of these things can be a bit of a pain to figure out or look up, so I wanted to share in case it helps someone else.
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
