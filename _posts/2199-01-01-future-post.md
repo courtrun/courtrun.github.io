@@ -10,9 +10,10 @@ tags:
 
 This is a collection of oddly specific, potential useful code snippets that I use frequently enough in my general data analysis work in `R` that I wanted to put them in one place as a reference. Some of these things can be a bit of a pain to figure out or look up, so I wanted to share in case it helps someone else.
 
-Each of the below code sets is completely independent from one another if under a separate comment (#), except for the initial loading of the `dplyr` package.
+Each of the below code sets is completely independent from one another if under a separate comment (#), even within a given code block, except for the initial loading of the `dplyr` package.
 
-Filtering rows and subseting columns
+Code for various specific filtering rows and subseting columns tasks
+=======
 ```R
 library(dplyr)
 
@@ -43,8 +44,8 @@ newdf <- filter(mydf,`P-VALUE`<5e-8)
 df <- as.data.frame(mydf %>% group_by(GENES) %>% filter(num_sig == max(num_sig)) %>% filter(1:n() == 1))
 ```
 
-Munging the data
-```R
+Code for various specific munging data tasks
+```
 library(dplyr)
 
 # replace a single element in a df based on matching criteria
@@ -73,7 +74,8 @@ mydf_long$Metabolite <- rep(gsub("BETA_","",colnames(mylistofcolumns)),each=nmet
 l <- stringr::str_sort(l, numeric = TRUE)
 ```
 
-Working with dynamic strings and variables
+Code for working with dynamic strings and variables
+========
 ```R
 library(dplyr)
 
@@ -93,7 +95,7 @@ deparse(substitute(my_variable)) # variable name to string
 eval(parse(text = my_string)) # string to variable name
 ```
 
-Reformating Data
+Code for various specific reformating data tasks
 ```R
 library(dplyr)
 
@@ -109,7 +111,7 @@ df$CHROM <- paste0("chr",df$CHROM) # add "chr" before each... (or could use gsub
 mydf$genes <- gsub("\\..*","",mydf$genes)
 ```
 
-Miscellaneous
+Code for various miscellaneous tasks
 ```R
 library(dplyr)
 
