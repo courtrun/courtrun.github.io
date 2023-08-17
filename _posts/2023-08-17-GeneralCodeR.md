@@ -1,5 +1,5 @@
 ---
-title: 'Oddly Specific, Potentially Useful Code - General R snippets'
+title: 'Oddly Specific, Potentially Useful Code - Data Analysis R snippets'
 date: 2023-08-17
 permalink: /posts/2023/08/blog-post-4/
 tags:
