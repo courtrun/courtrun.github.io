@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2022-MilkMicrobiome
 excerpt: 'An outstanding question regarding the human gut microbiota is whether and how microbiota-directed interventions influence host phenotypic traits. Here, we employed a dietary intervention to probe this question in the context of lactose intolerance. Lactose intolerance is a gastrointestinal disorder diagnosed with a lactose hydrogen breath test. Lifestyle changes such as diet interventions can impact the gut microbiome; however, the role of the microbiome in lactose intolerance is unclear. Our study assessed the effects of a 12-week dietary dairy product elimination and (re)introduction on the microbiome and clinical lactose intolerance status in 12 adult self-reported lactose-intolerant individuals. We found each subject’s gut microbiome remained highly individualized and largely stable in the face of this diet manipulation. We also report that none of the subjects showed change in a clinically defined measure of lactose tolerance. <br />
 <br />
-Link to the code for the paper [here](https://github.com/courtrun/LactoseIntoleranceGutMicrobiota). <br />
-Read the full paper [here](https://journals.asm.org/doi/full/10.1128/mbio.01051-22).'
+Link to the code for the paper <a href="https://github.com/courtrun/LactoseIntoleranceGutMicrobiota" target="_blank">here</a>. <br />
+Read the full paper <a href="https://journals.asm.org/doi/full/10.1128/mbio.01051-22" target="_blank">here</a>.'
 date: 2022-06-28
 venue: 'American Society for Microbiology'
 link: 'https://journals.asm.org/doi/full/10.1128/mbio.01051-22'
