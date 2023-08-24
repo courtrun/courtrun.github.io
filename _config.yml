@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Courtney Smith"
+title                    : "Courtney J. Smith"
 title_separator          : "-"
-name                     : &name "Courtney Smith"
+name                     : &name "Courtney J. Smith"
 description              : &description "MD/PhD Student in Genetics at Stanford University"
 url                      : https://courtrun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
