@@ -86,7 +86,7 @@ author:
   location         : "Stanford, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=qYHgW24AAAAJ"
+  googlescholar    : "qYHgW24AAAAJ" #https://scholar.google.com/citations?user=qYHgW24AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
