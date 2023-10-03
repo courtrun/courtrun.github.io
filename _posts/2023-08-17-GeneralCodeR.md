@@ -15,6 +15,7 @@ Each of the below code sets is completely independent from one another if under 
 Code for various specific filtering rows and subseting columns tasks
 =======
 ```R
+<h1>
 library(dplyr)
 
 # df keep row with lowest of a certain value for each group
